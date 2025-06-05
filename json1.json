@@ -1,0 +1,10 @@
+{
+  "name": "Mouse Gamer",
+  "price": 120.50,
+  "active": true,
+  "details": {
+    "dpi": 1600,
+    "buttons": 6
+  },
+  "tags": ["gamer", "peripheral"]
+}

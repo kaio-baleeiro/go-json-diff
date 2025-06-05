@@ -1,0 +1,11 @@
+{
+  "name": "Mouse Gamer Pro",
+  "price": 150.75,
+  "active": true,
+  "details": {
+    "dpi": 3200,
+    "wireless": true 
+  },
+  "tags": ["gamer", "peripheral", "pro"],
+  "stock": 100
+}
